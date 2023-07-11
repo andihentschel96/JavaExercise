@@ -4,12 +4,13 @@ public class ClassAndObjects {
     public static void main(String[] args) {
         Bicycle mountainbike = new Bicycle();
         mountainbike.Braking();
+        mountainbike.gear = 8;
     }
 }
 
 class Bicycle {
     //State (Field)
-    private int gear = 5;
+    int gear = 5;
 
     //Behavior (Methods)
     public void Braking() {

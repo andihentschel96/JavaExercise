@@ -1,4 +1,4 @@
-package OOP1;
+package OOP1.ClassAndObject;
 
 public class Lamp {
     //Fields

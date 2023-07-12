@@ -1,5 +1,7 @@
 package OOP1.MethodOverloading;
 
+import OOP1.Constructor.Constructor;
+
 public class Overloading {
     //We create a simple Method that adds 2 numbers and call it AddNumbers()
     public static void AddNumbers(int a, int b) {

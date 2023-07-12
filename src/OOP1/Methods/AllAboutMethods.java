@@ -10,8 +10,7 @@ public class AllAboutMethods {
     //Create a Method
 
     public static int addNumbers(int a, int b) {
-        int sum = a + b;
-        return sum;
+        return a + b;
     }
     public static int square(int i) {
         //return-statement is always required with return types other than void

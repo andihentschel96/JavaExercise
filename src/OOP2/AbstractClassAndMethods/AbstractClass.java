@@ -11,8 +11,10 @@ public class AbstractClass {
 abstract class Language {
     //abstract method
     abstract void Method1();
+
     //regular method
     void method2() {
         System.out.println("This is a regular method.");
     }
+
 }

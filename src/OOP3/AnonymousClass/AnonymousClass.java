@@ -7,7 +7,7 @@ public class AnonymousClass {
     }
 }
 
-class Polygon {
+class Polygon {     //would also work with an interface
     public void display() {
         System.out.println("Inside Polygon Class");
     }
